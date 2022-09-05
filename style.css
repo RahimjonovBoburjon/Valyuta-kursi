@@ -1,0 +1,60 @@
+body {
+    background: url(./file/ezgif-5-38308ce060.gif) no-repeat center/ cover;
+    height: 90vh;
+}
+
+.container {
+	width: 100%;
+	max-width: 1170px;
+	padding: 0 15px;
+	margin: 0 auto;
+}
+
+.wrapper {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+}
+
+.calculator {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 20%;
+}
+
+.title {
+	padding-top: 10%;
+	text-align: center;
+	color: #fff;
+}
+
+.block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+	padding-top: 80px;
+	gap: 10px;
+}
+
+.inputs {
+	width: 15%;
+	height: 40px;
+	display: flex;
+	border-radius: 10px;
+    background: none;
+    color: #fff;
+    border: 1px solid #000;
+}
+
+.equl {
+	width: 15%;
+	height: 40px;
+	display: flex;
+	border-radius: 10px;
+    background: none;
+    color: #fff;
+    border: 1px solid #000;
+}
